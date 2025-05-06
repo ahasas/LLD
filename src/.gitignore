@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+
+ ../.idea/
+ ../qodana.yaml
+        .idea/
+        Test.iml
+        out/
