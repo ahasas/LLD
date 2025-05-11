@@ -1,9 +1,14 @@
 # Default ignored files
 /shelf/
 /.idea/workspace.xml
-
+../.idea/
+../qodana.yaml
+.idea/
+Test.iml
+out/
+../.DS_Store
  ../.idea/
- ../qodana.yaml
-        .idea/
-        Test.iml
-        out/
+qodana.yaml
+.DS_Store
+
+.idea/
